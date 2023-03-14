@@ -18,4 +18,4 @@
 - 🤔 I’m looking for help with creating a community friendly C++/Rust easy to use libraries for most usecases.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josue-Herrera&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue-Herrera&theme=github_dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue-Herrera&theme=github_dark)
