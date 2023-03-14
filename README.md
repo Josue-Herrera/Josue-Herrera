@@ -1,5 +1,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josue-Herrera&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josue-Herrera&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue-Herrera&theme=github_dark)
 
 <a href="https://www.linkedin.com/in/josueeherrera/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -17,5 +19,4 @@
 - 👯 I’m looking to collaborate on Multiple Object Detection/Tracking, Resource Management of Multiple Sensors, and Path Planning.
 - 🤔 I’m looking for help with creating a community friendly C++/Rust easy to use libraries for most usecases.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josue-Herrera&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue-Herrera&theme=github_dark)
+
